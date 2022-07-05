@@ -1,1 +1,1 @@
-this is the readme for my lover lola beauty
+this section contain all the neccessary srcipts for the task on C
